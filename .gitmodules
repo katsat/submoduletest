@@ -1,0 +1,3 @@
+[submodule "submoduletext_model"]
+	path = submoduletext_model
+	url = git@github.com:katsat/submoduletext_model.git
